@@ -54,3 +54,15 @@ textarea{
   bottom: 75px;
   visibility: hidden;
 }
+.car{
+  position: absolute;
+  height: 60px;
+  left:0;
+  bottom: -15px;
+}
+.car-wrapper{
+  position: relative;
+  border-bottom: 2px solid rgb(0, 0, 0);
+  width: 550px;
+  height: 100px;
+}
